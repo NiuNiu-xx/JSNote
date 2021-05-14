@@ -1,5 +1,5 @@
 #Personal JS Note
-https://niuniu-xx.github.io/Note/
+
 第一章 JavaScript
 
 第二章 变量
